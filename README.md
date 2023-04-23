@@ -1,10 +1,13 @@
-# [PROJECT NAME]
+# Hotel Bookings Exploratory Analisis
 
 ## Introduction
 
 ## Problem Statement
 
 ## Skills Demonstrated
+SQL
+POWER BI
+UI/UX DESIGN
 
 ## Data Sourcing
 
